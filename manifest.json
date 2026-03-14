@@ -1,0 +1,22 @@
+{
+  "name": "重生之大文豪的一天",
+  "short_name": "大文豪",
+  "description": "专业的小说创作工具，支持故事蓝图、人物关系、创作实验室等功能",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
