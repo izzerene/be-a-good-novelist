@@ -1,0 +1,8 @@
+{
+  "name": "MuseWriter: The Creative Sanctuary",
+  "description": "A comprehensive writing suite featuring structured long-form projects, gamified creative exercises, an inspiration vault, and Gemini-powered AI writing assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
